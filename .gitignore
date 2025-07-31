@@ -1,0 +1,210 @@
+# Unreal Engine project files to ignore
+
+# Standard generated folders and files
+.vs/
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.fuse_hidden*/
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.log
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.aps
+*.ilk
+*.ipch
+*.tlog
+*.manifest
+*.ncb
+*.bak
+*.opt
+*.res
+*.sbr
+*.bsc
+*.map
+*.idb
+*.iobj
+*.ipdb
+*.recipes
+*.target
+*.pak
+*.pak.sig
+*.sig
+*.cdb
+*.upk
+*.webm
+
+# Visual Studio specific files
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vsscc
+*.vssscc
+*.bak
+*.sbr
+*.bsc
+*.res
+*.opt
+*.obj
+*.map
+*.o
+*.tds
+*.ilc
+*.ilk
+*.msc
+*.lib
+*.exp
+*.ipdb
+*.iobj
+*.res
+*.ncb
+*.pdb
+*.tlog
+*.lastbuildstate
+*.cache
+*.obj.rsp
+*.pgm
+*.pgn
+*.psess
+*.vsp
+*.vspx
+*.wgsl.h
+
+# Mac
+*.DS_Store
+
+# Linux
+*.o
+*.so
+*.a
+*.out
+*.d
+*.mk
+*.swp
+*.obj
+*.dll
+*.pdb
+*.rsp
+
+# Editor only
+*/__pycache__/
+*.pyc
+*.pyo
+*.generated.h
+
+# Derived Data Cache
+DDC/
+
+# Backups
+*~
+*.tmp
+*.temp
+*.bak
+
+# Content Browser assets for editor use, generally not necessary to commit
+# Unless you are working with specific editor extensions.
+# /Content/Collections/
+# /Content/Developers/
+# /Content/ExternalActors/
+# /Content/ExternalObjects/
+# /Content/Generated/
+
+# Build files / deploy artifacts
+Build/*
+Intermediate/*
+Saved/*
+Binaries/*
+
+# Logs
+*.log
+Logs/
+
+# Derived Data Cache in project root
+DerivedDataCache/
+
+# Packages and installers
+*.pak
+*.pak.sig
+*.sig
+
+# Mac specific files
+.DS_Store
+
+# Visual Studio User specific data
+.vs/
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.suo
+*.user
+
+# Temporary build/cache files
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.aps
+*.ilk
+*.ipch
+*.tlog
+*.manifest
+*.ncb
+*.bak
+*.opt
+*.res
+*.sbr
+*.bsc
+*.map
+*.idb
+*.iobj
+*.ipdb
+*.recipes
+*.target
+*.cdb
+*.upk
+*.webm
+
+# Packaging artifacts
+*/Packaging/*
+
+# User defined editor folders
+/Content/Developers/
+
+# Source control ignore for editor generated external actors
+ExternalActors/
+ExternalObjects/
+
+# Mac Project Bundle
+*.xcodeproj
+
+# Linux specific compile files
+*.o
+*.so
+*.a
+
+# Build cache for Linux
+.cache/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Custom ignore (add your own here)
